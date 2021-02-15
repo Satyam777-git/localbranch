@@ -3,3 +3,4 @@ Local branch file modification on master branch
 edit for reset
 one more change added
 update-index command
+learning reset
