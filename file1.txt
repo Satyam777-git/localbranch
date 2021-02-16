@@ -1,1 +1,2 @@
 hello all learning git
+This is the new version to test diff command
