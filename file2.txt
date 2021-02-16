@@ -1,4 +1,0 @@
-Trying types of commits
-More types of commands
-commands
-diff command changes
