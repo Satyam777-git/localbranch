@@ -2,3 +2,4 @@ Trying types of commits
 More types of commands
 commands
 diff command changes
+Working in accordance with another file
