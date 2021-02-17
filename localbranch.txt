@@ -4,3 +4,5 @@ edit for reset
 one more change added
 update-index command
 learning reset
+Partial stash
+One more time
