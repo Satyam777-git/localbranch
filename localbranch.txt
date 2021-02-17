@@ -5,7 +5,10 @@ one more change added
 update-index command
 learning reset
 <<<<<<< HEAD
+<<<<<<< HEAD
 Partial stash
 One more time
 =======
 >>>>>>> 90672cec5006b983fd7c4108add756cefb7d673b
+=======
+>>>>>>> test
