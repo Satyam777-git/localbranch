@@ -1,0 +1,3 @@
+First line of the file
+Rebase practice is going on.
+REbase and merge are similar but not same.
